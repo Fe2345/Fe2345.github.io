@@ -7,4 +7,7 @@ categories: Terraria Mod tModLoader DevRelease
 
 ## AdvancedMod v0.2.0测试版
 #### 关于AdvancedMod
- + AdvancedMod是一个Terraria模组，由个人SwordOfWar开发
+ + AdvancedMod是一个Terraria模组，由SwordOfWar(代码逻辑部分)以及Latic7(贴图部分)开发
+
+#### 项目地址
+ + [Github](https://github.com/Fe2345/AdvancedMod)
