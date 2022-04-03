@@ -1,7 +1,7 @@
 ---
-layout: Post
+layout: post
 title:  "关于本站"
-date : 2022-04-03
+date : 2022-04-03 14:33:14 -0000
 categories: jekyll update
 ---
 
