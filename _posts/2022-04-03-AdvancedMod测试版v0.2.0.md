@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AdvancedMod测试版v0.2.0发布"
+title: "AdvancedMod测试版v0.2.0"
 date: 2022-04-03 11:32:04 -0000
 ---
 
