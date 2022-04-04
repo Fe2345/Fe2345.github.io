@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: article
 title: "AdvancedMod测试版v0.2.0"
 date: 2022-04-03 11:32:04 -0000
+permalink: /p00000001/ 
 ---
 
 ## AdvancedMod v0.2.0测试版
