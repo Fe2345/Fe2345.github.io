@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "AdvancedMod测试版v0.2.0"
+subtitle: a simple Terraria Mod
 date: 2022-04-03
 author : SwordOfWar
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - tModLoader
-    - 个人
     - Github
     - Terraria
 ---
